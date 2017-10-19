@@ -13,7 +13,8 @@ Other external spool holder for Bee The First and Bee The First Plus.
 # 3D Print Considerations
 
 You should use at lest 20% infill and a medium resolution, but if you want make shore 40% infill is a safe option.
-See the image that is on repository to check part orientation.
+See the image that is on repository to check part orientation. The Gcode present on repository was made to print PETG, on glass with 3DLAC, keep that in mind.
+
 
 # 3D modeling
 
